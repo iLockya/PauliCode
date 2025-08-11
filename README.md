@@ -1,0 +1,2 @@
+# PauliCode
+Pauli stabilizer codes
